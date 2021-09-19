@@ -16,5 +16,5 @@
 </div>
 
 <p align="center">
-  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devincapriola&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="devincapriola" />  
-</p>
+  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devincapriola&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=Jupyter Notebook" alt="devincapriola" />  
+  </p>
