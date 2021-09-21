@@ -11,10 +11,5 @@
 
 <div style="center">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=devincapriola&show_icons=true&locale=en&theme=github_dark" alt="devincapriola" />
-  <img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devincapriola&theme=tokyonight_duo&sideNums=FFFFFF&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=58A6FF" alt="devincapriola" />
-  
+  <img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devincapriola&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="devincapriola" />  
 </div>
-
-<p align="center">
-  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devincapriola&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="devincapriola" />  
-  </p>
