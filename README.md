@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/devincapriola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devincapriola" height="30" width="40" /></a>
 <a href="https://instagram.com/devincapriola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devincapriola" height="30" width="40" /></a>
-<a href="https://discord.gg/XTjQdPpg6E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devin#5239" height="30" width="40" /></a>
+<a href="https://discord.gg/VCCtC4kuXK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devincapriola#1114" height="30" width="40" /></a>
 </p>
 </p>
 
