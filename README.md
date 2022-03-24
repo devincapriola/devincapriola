@@ -1,4 +1,4 @@
-<img align="right" width="600px" src="./assets/botpeg.png" />
+<img align="right" width="500px" src="./assets/botpeg.png" />
   
 <h1>Hi 👋, I'm Devin Capriola</h1>
 <p>I'm an AI and ML developer. I am working on open source AI tutorials @PegHeads-Inc.</p>
