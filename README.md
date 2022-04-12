@@ -1,7 +1,7 @@
 <img align="right" width="500px" src="./assets/botpeg.png" />
   
 <h1>Hi 👋, I'm Devin Capriola</h1>
-<p>I'm an AI and ML developer. I am working on open source AI tutorials @PegHeads-Inc.</p>
+<p>I'm Working on image and video automation with AI.</p>
 
 <h3>Connect with me:</h3>
 <p>
