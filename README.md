@@ -17,3 +17,6 @@
 - Twitter: [@devincapriola](https://twitter.com/devincapriola)
 - Instagram: [@devincapriola](https://www.instagram.com/devincapriola)
 - Linkedin: [@devincapriola](https://www.linkedin.com/in/devincapriola/)
+
+## Donate:
+- CashApp: $devincapriola
