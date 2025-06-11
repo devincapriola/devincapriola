@@ -1,16 +1,9 @@
 # Hi there 👋, I'm Devin Capriola
 
 ## About Me
-- 🔭 I’m currently working on: Image and video automation with AI.
-- 💭 I’m currently learning: Unreal engine.
-- 💬 Ask me about: Python.
-- ❤ I love: Learning, coding, and open source projects. 
-- 📫 How to reach me: devincapriola@gmail.com.
-- 🎯 I’m looking forward to collaborate on open source projects.
+I’m a high school junior graduating a year early with a strong focus on artificial intelligence, automation, and software development. Over the past four years, I’ve built a deep foundation in coding and problem-solving through hands-on projects and continuous learning. I’ve completed over 90 certifications on Udemy, covering everything from AI and machine learning to full-stack development and cloud automation.
 
-## Github Stats
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=devincapriola&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devincapriola&layout=compact&theme=radical&hide_border=true" />
-
+I’m passionate about building intelligent systems that solve real-world problems and eager to connect with others in the tech space who are driven by innovation. Whether it’s collaborating on projects or exploring new opportunities, I’m always open to meaningful conversations and impactful work.
 
 ## Connect with me:
 - Email: devincapriola@gmail.com
